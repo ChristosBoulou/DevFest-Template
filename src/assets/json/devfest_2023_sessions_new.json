@@ -1,0 +1,555 @@
+[
+    {
+        "title": "GDG Academy",
+        "description": "The Academy is a mentorship program for university students, I'll be talking about how it works, what problem is trying to solve and plans for the future.",
+        "category": "Introductory and overview",
+        "speaker": [
+            {
+                "FullName": "Stefano Le Pera",
+                "Company": "The Times",
+                "Biography": "As an Engineering Manager at The Times, I oversee and manage all engineering teams in Times Media, across three different domains: web, mobile, and platform. With over 18 years of experience in the tech industry, I have developed and implemented career development plans, revamped the interview process, and provided regular feedback and coaching to engineers, helping them grow their skills and careers.\n\nI am also passionate about the community aspect in tech and actively involved in several initiatives that aim to empower and inspire diverse and inclusive audiences. I am the Lead Organizer of GDG Cloud London, one of the most active Google Developer Groups in Europe, where I host events, workshops, and talks on cloud technologies and best practices. I am also the Founder and Mentor of GDG Academy, a mentorship program that pairs university students from prestigious institutions with experienced mentors in the tech industry, and offers them internship opportunities. Additionally, I am a Google Women TechMakers Ambassador, promoting women's representation and participation in tech.",
+                "JobTitle": "Engineering Manager",
+                "PhotoFileName": "new-main-orange.png"
+            }
+        ]
+    },
+    {
+        "title": "Prompt Engineering with Vertex AI",
+        "description": "After the advent of ChatGPT ,one of the new engineering paradigm which was evolved is Prompt Engineering. To enable the audience on how to efficiently use the Generative AI applications , this talk is designed to cover the fundamentals of language models, providing the audience with a solid foundation and also dive deep into the specifics of crafting prompts that yield desired outputs and text generation to name a few. This talk will also provide an overview of different types of Prompt engineering and explore how to implement/adopt Prompt Engineering with Vertex AI.",
+        "category": "Intermediate",
+        "speaker": [
+            {
+                "FullName": "Nishi Ajmera",
+                "Company": "Publicis Sapient",
+                "Biography": "Nishi Ajmera is a full stack developer who is passionate about emerging new technologies in the web development field. With a keen interest in web development, she has gained expertise in various programming languages, frameworks, and tools.\nApart from her professional expertise, Nishi is a public speaker and has delivered multiple sessions at various Google Developer group talks and Javascript meetups.\nWhen she's not coding or reading, Nishi can be found exploring new places and cuisines. She believes that traveling and trying new things is a great way to keep her mind fresh and inspired.",
+                "JobTitle": "Lead Engineer",
+                "PhotoFileName": "screenshot-2023-08-30-at-16.42.45.png"
+            },
+            {
+                "FullName": "Nishi Ajmera",
+                "Company": "Publicis Sapient",
+                "Biography": "Nishi Ajmera is a full stack developer who is passionate about emerging new technologies in the web development field. With a keen interest in web development, she has gained expertise in various programming languages, frameworks, and tools.\nApart from her professional expertise, Nishi is a public speaker and has delivered multiple sessions at various Google Developer group talks and Javascript meetups.\nWhen she's not coding or reading, Nishi can be found exploring new places and cuisines. She believes that traveling and trying new things is a great way to keep her mind fresh and inspired.",
+                "JobTitle": "Lead Engineer",
+                "PhotoFileName": "screenshot-2023-08-30-at-16.42.45.png"
+            }
+        ]
+    },
+    {
+        "title": "What comes after ChatGPT? Vector Databases - the Simple and powerful future of ML?",
+        "description": "What comes after ChatGPT? Vector database projects like Weaviate, Pinecone, and Chroma recently got millions of dollars of funding for their projects. But what are vector databases? And why will they be so important in the future? \nLet us see how Vector Databases can help you define and run your machine learning business use cases. We will explore some real-world use cases and try to understand the potential of vectors and vector databases. \nNot exactly sure what a vector is ? No worries, you will learn everything you need about vectors .\nWe will also cover how vector databases can work together with chatGPT and helps you to overcome some limitations of chatGPT.",
+        "category": "Intermediate",
+        "speaker": [
+            {
+                "FullName": "Erik Bamberg",
+                "Company": "",
+                "Biography": "Erik is a Java and machine learning Enthusiast - Java -Coach, -Expert, -Consultant and Software Architect - who loves to talk about elegant software solutions and the achievement from the 8-bit area to today.\nHe spends his energy, enthusiasm and research time in machine learning and vector databases.\nFormerly a Open Source Contributor & Community Lead for the Deep Java Learning ML Framework (Amazon AWS), he is on a mission to transform machine learning from the research labs into real-world applications.\nAs a musician and Indy Film Maker, he always sees elegant software solutions with the eye of an artist and knows about creativity and art and the importance of these skills as a software engineer.",
+                "JobTitle": "Senior Principal Software Developer",
+                "PhotoFileName": "erik2_smaller.png"
+            }
+        ]
+    },
+    {
+        "title": "A love letter to long lines and other DX stories",
+        "description": "Writing code is fun! Reading it, not so much.\n\nAs developers we spend as much, if not more time reading code than we do writing it. However we often forget when coding that we're writing for other humans to read as much as we are for computers to execute. \n\nThis talk goes over how to create a better developer experience (DX) in your projects by writing your code with intent. Leading the reader through your codebase should feel like settling in to watch your favourite TV show; enjoyable and unsurprising. \n\nWith this, and other DX skills covered in the talk, we will create maintainable, educational and pleasant to use projects, not only for other developers, but also for our future selves!",
+        "category": "Introductory and overview",
+        "speaker": [
+            {
+                "FullName": "Jo Franchetti",
+                "Company": "",
+                "Biography": "Jo is a Developer Advocate at Spotify working on the Spotify for Developers platform. She is passionate about improving developer experience, teaching good use of the web and building sparkly, wearable, internet connected tech. She mentors junior developers, talks a lot about mental health and is devoted to improving the diversity and inclusivity of the tech industry.",
+                "JobTitle": "Developer Advocate",
+                "PhotoFileName": "jo-franchetti.jpg"
+            }
+        ]
+    },
+    {
+        "title": "What can you do to become a greener technologist? ",
+        "description": "As the world is heating up, technologists are changing to work in a more energy efficient way. These ways of working are small things that make a big impact. This talk is some actionable advice for different types of technologists (Web, Backend, DevOps and non-technical) who wish to be \"greener\" yet don't know where to start.",
+        "category": "Introductory and overview",
+        "speaker": [
+            {
+                "FullName": "Anna Rasburn",
+                "Company": "",
+                "Biography": "Anna is a software developer at Morgan Stanley working in their API team. She first went there as a grad after graduating with a First in Computer Science from the University of Stirling. Although a large amount of her career has been spent at Morgan Stanley, she has also worked at the Startup 'Br-dge' in Edinburgh. ",
+                "JobTitle": "Software Developer",
+                "PhotoFileName": "whatsapp-image-2023-09-15-at-22.22.11.jpeg"
+            }
+        ]
+    },
+    {
+        "title": "Spaced repetition for engineers",
+        "description": "The talk would describe the value that spaced repetition can have for coders of all levels as it is a way to become long term learners rather than forgetting what we once learned only to have to relearn it at a later date when required again. The ability to actively recall information (without Google) that has not been used in months even years is a super power worth sharing. Particularly relevant in our field where syntax and pattern matching are of utter importance. ",
+        "category": "Introductory and overview",
+        "speaker": [
+            {
+                "FullName": "Carlos Perez",
+                "Company": "Arnold Clark",
+                "Biography": "Born and raised in Guayaquil, Ecuador. Studied Economics at undergraduate level and Business Analytics at postgraduate level both at the University of Edinburgh. Currently working as a Software Engineer at Arnold Clark.",
+                "JobTitle": "Associate Software Engineer",
+                "PhotoFileName": "photo-passport-_0.jpeg"
+            }
+        ]
+    },
+    {
+        "title": "Android apps: be your own architect! ",
+        "description": "Layer your codebase to be scalable, reusable and efficient. Overview of different historical architectural approaches in Android - with a focus on the currently recommended one.",
+        "category": "Intermediate",
+        "speaker": [
+            {
+                "FullName": "Slobodan Manojlovi\u0107",
+                "Company": "JP Morgan Chase",
+                "Biography": "Language interpreter in a previous life converted to interpreting ideas and converting them to software. Passionate native Android developer since 2016. ",
+                "JobTitle": "Senior Associate / Android Tech Lead",
+                "PhotoFileName": "pxl_20211110_084248558.portrait_0.jpg"
+            }
+        ]
+    },
+    {
+        "title": "Year of 2023 - is argument to chose Flutter",
+        "description": "This talk will be based around Flutter progress in 2023 as well as job market situation in 2023. What happened and why it is a great time for Flutter to step in?\n2023 shows huge jump in Flutter development and huge support from the community as well as Google's side.\n2023 shows huge drop on a market capacity, lay-offs and budget cuts. \n\nThese two things are heavily connected, and I will tell you why.",
+        "category": "Introductory and overview",
+        "speaker": [
+            {
+                "FullName": "Vadym Pinchuk",
+                "Company": "Labrys",
+                "Biography": "I am a passionate mobile Software Engineer with Ukrainian origins, currently residing in London, UK. My journey commenced as an Android Developer in early 2012, and in 2018, I became an active member of the Flutter community.\nDuring last two years I worked as an Android Developer at Instagram, but now returned back to the tech stack I love as a Flutter Developer at Labrys.",
+                "JobTitle": "Senior Software Engineer",
+                "PhotoFileName": "vp_portrait.jpg"
+            }
+        ]
+    },
+    {
+        "title": "Build amazing web apps with WebAssembly",
+        "description": "Uncover the vast potential of WebAssembly (Wasm) in the realm of web development. Dive deep into its core principles while discovering practical, real-world applications where it seamlessly integrates with JavaScript. Explore how Wasm elevates web applications across diverse domains and use cases, revolutionizing the way we build for the web.\n\nJoin us on an enlightening journey into the limitless possibilities of WebAssembly. This talk promises to equip you with invaluable insights and tools to harness the true power of Wasm in your web development projects.",
+        "category": "Intermediate",
+        "speaker": [
+            {
+                "FullName": "\u00d6nder Ceylan",
+                "Company": "IKIGAI Ventures",
+                "Biography": "\u00d6nder has been working on building web and mobile apps in various development ecosystems since late 90s. JavaScript and web has always been his passion and nowadays he enjoys it at its full while working as an independent contractor. He believes in team work and he shares his knowledge with the communities as a co-organiser and speaker. He's also interested in photography, movies and dancing.",
+                "JobTitle": "Technical Lead",
+                "PhotoFileName": "fuji-sq-large.jpg"
+            }
+        ]
+    },
+    {
+        "title": "The Web in 2023: How Far We've Come",
+        "description": "In the ever-evolving landscape of web development, we have witnessed a remarkable transformation in the capabilities of web browsers over the years. Gone are the days when we relied on a multitude of browser extensions like Flash or ActiveX to provide app-like functionality. Similarly, we don't have to rely so much on libraries like jQuery to provide cross-browser compatibility, and we have browser standards to thank!\n\nFortunately, the era of plugins and compatibility libraries is behind us. Nowadays we have a treasure trove of cross-browser APIs that give us the functionality we need to build incredible immersive websites and applications. As well as compatibility, the rise of Progressive Web App technologies like the manifest file and Service Worker has enabled us to build native app-like experiences on the web, with companies like Starbucks and Pinterest using them to provide their customers with features like add to homescreen and offline caching. This parity with native has been pushed even further by initiatives like Project Fugu allowing us to truly rival even native applications, with all the security, reach and ease of access of the web. We can see apps being able to do things like access the native file system, wake lock your device and easily share to socials. In the gaming and immersive tools space we see technologies like WebAssembly enable companies like Unity, Figma and AutoDesk to take their applications and web offerings to the next level. \n\nEverywhere we look new browser standards and technologies have, and continue to, push the boundaries of what's possible on the web all with the distribution and reach that we all know and love. This talk will be an overview of how the web has evolved and how we can leverage its capabilities today to build incredible applications. Attendees can expect to come away primed knowing what tools are available to them and where to look to learn more about these technologies. ",
+        "category": "Intermediate",
+        "speaker": [
+            {
+                "FullName": "James Milner",
+                "Company": "",
+                "Biography": "James is a experienced web developer, having been building on the platform for over ten years. He currently lives in London, working remotely for NearForm, a web application consultancy with a strong history in the open source world. He has been a Google Developer Expert for Web Technologies for over 5 years, having spoken at events around the globe during this time and mentored at programs like Women Developer Academy and Road to GDE. His specific areas of interest are JavaScript/TypeScript, geospatial, and pushing the web platform forward. ",
+                "JobTitle": "Senior Software Developer",
+                "PhotoFileName": "headshot.jpeg"
+            }
+        ]
+    },
+    {
+        "title": "From big to small. Which path I choose and why?",
+        "description": "This is a lightning talk where I will share my experience as an engineer from Instagram, who decided to resign and work in \"tech for good\". What are the pros of being employed by tech giants, and where to find passion?",
+        "category": "Introductory and overview",
+        "speaker": [
+            {
+                "FullName": "Vadym Pinchuk",
+                "Company": "Labrys",
+                "Biography": "Greetings to the mobile community! I am a passionate mobile Software Engineer with Ukrainian origins, currently residing in London, UK. My journey commenced as an Android Developer in early 2012, and in 2018, I became an active member of the Flutter community.\nDuring last two years I worked as an Android Developer at Instagram, but now returned back to the tech stack I love as a Flutter Developer at Labrys.",
+                "JobTitle": "Mobile Software Engineer",
+                "PhotoFileName": "9134717.jpeg"
+            }
+        ]
+    },
+    {
+        "title": "What's new on Chrome web UI",
+        "description": "The web platform is evolving quickly, with UI features to improve developer experiences, create new responsive capabilities, and enable more accessible interface defaults. The aim of the talk is to give a high level overview of what you can get excited about in the UI space and look out for on the web platform for CSS and HTML. ",
+        "category": "Intermediate",
+        "speaker": [
+            {
+                "FullName": "Cleyra Uzcategui ",
+                "Company": "JP Morgan & Chase",
+                "Biography": "Cleyra is a Venezuelan Software Engineer. Her passion for web development and user experience have led her to focus her career on creating products that are easy to use and accessible to everyone. She is also a promoter of diversity and inclusion in the tech industry and is always looking for ways to promote equal opportunity and representation, in her role as Women Techmakers ambassador, Women Developer Academy Mentor and in her role as Google Developers Group organiser.",
+                "JobTitle": "Software Engineer",
+                "PhotoFileName": "cleyra_profile.png"
+            },
+            {
+                "FullName": "Delia Paternina",
+                "Company": "Charles River Laboratories",
+                "Biography": "Delia is a Full Stack Software Engineer with a background in Civil Engineering and video games testing.\n\nShe loves using her development skills and knowledge to bring innovation and improvement to others and make an impact through software.",
+                "JobTitle": "Software Engineer",
+                "PhotoFileName": "delia-profile.jpeg"
+            }
+        ]
+    },
+    {
+        "title": "Beyond the Stage Lights: Freddie Mercury's Electric Encore as a Software Developer",
+        "description": "Having left Queen, world wide sell out stadium tours and albums behind, Freddie invites you to join him for a day in his new life as a software developer.\n\nOn this journey Freddie will be diving into a performance issue that is affecting a small number of high value customers to the extent the product is near unusable for them.\n\nFind out what happens as Freddie attempts to resolve the issue while making a huge number of costume changes!",
+        "category": "Introductory and overview",
+        "speaker": [
+            {
+                "FullName": "Peter Aitken",
+                "Company": "Litmus",
+                "Biography": "Meet Peter, who likes to spend his time spreading joy like a daft fairy godmother. \nHaving spent the last few years recovering from organising ScotlandJS, ScotlandCSS and Global Diversity CFP Day he wants to bring his community focus to giving tech talks again.\n\nBy day he is a Principal Software Engineer at Litmus, using Ruby and JavaScript. \nIn his spare time, you can find him walking the dogs, avoiding housework and playing guitar and mandolin.\n\nSo, buckle up, because Peter is here to make life a wee bit funnier and a whole lot weirder!",
+                "JobTitle": "Principal Software Engineer",
+                "PhotoFileName": "jiggy_pete_400x400.jpg"
+            }
+        ]
+    },
+    {
+        "title": "Bringing the Cloud down to earth and making sense of the nebulous - a GCP perspective",
+        "description": "Wiktor combines humour with practical insights to demystify cloud computing. The talk offers valuable advice for those starting their cloud careers, emphasizing the importance of hands-on experience and the willingness to explore the endless possibilities of cloud platforms like Google Cloud.\n\nWiktor steps you through how to create your own 'cloud portfolio' and over-engineer a simple 'Hello World' application. The talk provides real-world examples and insights on how cloud services are used in building an application.",
+        "category": "Intermediate",
+        "speaker": [
+            {
+                "FullName": "Wiktor Jurek",
+                "Company": "Cobry / University of Strathclyde",
+                "Biography": "Wiktor is a Google Cloud Engineer working for Cobry, a Google Cloud partner based in Glasgow. He focuses on data engineering and analysis, as well as application development on the Google Cloud Ecosystem.",
+                "JobTitle": "Development Lead",
+                "PhotoFileName": "screenshot-2023-10-02-145921.png"
+            }
+        ]
+    },
+    {
+        "title": "Revolutionizing Collaboration: AI and Architecture Decisions",
+        "description": "After this talk, attendees will gain a profound understanding of documented architecture decisions, avoiding anti-patterns, and fostering collaboration. They'll discover the transformative power of ADRs and AI, enabling effortless access to project details. With enhanced skills, they can drive efficiency, collaboration, and innovation, leading to improved outcomes in software engineering.",
+        "category": "Intermediate",
+        "speaker": [
+            {
+                "FullName": "Jose Calderon",
+                "Company": "JP Morgan & Chase",
+                "Biography": "Lead Software Engineer @ JP Morgan Chase, JAVA / Spring Community lead, Google Developer Group Organizer, Affiliate Professor @ Glasgow University",
+                "JobTitle": "Lead Software Engineer",
+                "PhotoFileName": "profile.jpeg"
+            }
+        ]
+    },
+    {
+        "title": "Coding in no-code: Extending AppSheet functionality ... with code",
+        "description": "Google AppSheet is a powerful no-code platform for the rapid development of apps. Vikas Anand (Google Cloud) has noted \"the democratization of software creation is also gaining ground within organizations, and by 2024 more than 65% of applications will be developed by low-code tools\".\n\nWhilst tools like AppSheet are pitched at no/low coders it doesn't mean there are no coding opportunities. In this talk we will highlight how AppSheet can be integrated with other Google products and services including Vertex AI, Workspace APIs and more! This session will also be an opportunity to see how with Duet AI for AppSheet developers can go from zero to prototype in a matter of minutes.\n\nAttending this session will give participants the opportunity to learn about the capabilities of Google AppSheet and opportunities for it to be used to create muti-platform interfaces to other products and services.",
+        "category": "Introductory and overview",
+        "speaker": [
+            {
+                "FullName": "Martin Hawksey",
+                "Company": "CTS",
+                "Biography": "Martin has held advisory roles within the UK educational technology sector for a number of government-funded services. In 2010 he started exploring and sharing solutions using Google Apps Script often integrating other Google products, such as Google Maps, Dialogflow and Google Analytics. Martin is a Collaboration Engineer at the largest dedicated Google Cloud practice in Europe, CTS. In this role he helps Google Workspace users identify opportunities to improve work processes, leads change through collaboration and develops solutions with Google Apps Script and Google AppSheet. He continues to support the wider Google Workspace developer community as co-host/producer of the Totally Unscripted podcast and the AppsScriptPulse website.",
+                "JobTitle": "Collaboration Engineer",
+                "PhotoFileName": "dsc_7159-gde-badge-2023.jpeg"
+            }
+        ]
+    },
+    {
+        "title": "Our future without passwords",
+        "description": "Picture the future. What do you see? Flying cars? Vacations in space? How about\u2026not needing to remember passwords anymore? Well, welcome to that future (the no passwords one, not the flying cars).\n\nPasskeys are here to make our digital lives easier and more secure\u2013they cannot be reused, don't leak in server breaches, and protect users from phishing attacks. I\u2019ll take you on a journey through our future where you can log in to a site or an app by unlocking your phone and show you how authentication systems with passkeys work.",
+        "category": "Introductory and overview",
+        "speaker": [
+            {
+                "FullName": "Milica Mihajlija",
+                "Company": "Google",
+                "Biography": "Milica is a technical writer at Google working on privacy and identity. She is a big believer in the open web, always exploring new technologies that are moving it forward.",
+                "JobTitle": "Technical Writer, Chrome",
+                "PhotoFileName": "unnamed.jpg"
+            }
+        ]
+    },
+    {
+        "title": "Responsible AI: Prioritising people, values, and ethics in a data-driven world",
+        "description": "Join me for a thought-provoking and engaging keynote that dives into the world of responsible AI. As artificial intelligence becomes increasingly intertwined with our daily lives, it's crucial to ensure that the algorithms powering these systems are developed with ethical considerations in mind. We will explore the challenges and opportunities in creating AI that respects human values, promotes fairness, and ensures transparency.",
+        "category": "Introductory and overview",
+        "speaker": [
+            {
+                "FullName": "Patty O'Callaghan",
+                "Company": "Charles River Laboratories",
+                "Biography": "Patty is a Venezuelan living in Scotland. She has +20 years of experience in the tech industry and a background education in Computer Science and Artificial Intelligence. She is a Tech Lead at Charles River Laboratories.\n\nIn her free time, Patty is a dedicated mentor and educator, leading a Code Club for 10-15 year-olds at her local school. Additionally, she's an organiser at Google Developers Group Glasgow, serves as an Ambassador for Google's Women Techmakers, and is recognised as a Google Developer Expert (GDE) in Machine Learning.\n\nShe is very passionate about AI and loves sharing her knowledge and expertise with others, frequently giving talks and technical workshops on various technologies and topics related to it, especially Web Machine Learning.",
+                "JobTitle": "Tech Lead",
+                "PhotoFileName": "profilepic.jpg"
+            }
+        ]
+    },
+    {
+        "title": "Into The Metaverse",
+        "description": "After winning the hackathon by Colorintech by developing a business product in the Metaverse, I have the pleasure to present about the Metaverse and the idea I won with: Fluency.\n\nFluency is the Mixed Reality solution to make you become fluent in a language through immersive experience in a foreign country. The best way to learn a language is to be fully immersed in the environment where that language is spoken. That\u2019s why it\u2019s been a common belief that in order to fully learn a language you have to live or spend an extensive amount of time in the country where that language is spoken. Moving abroad can be very expensive and not everyone has the opportunity to spend a significant amount of time away to learn a new language. That\u2019s where this metaverse product Fluency comes into place. It allows users to be fully immersed in the environment where that language is spoken, closely replicating the life they are living in a parallel metaverse world in another country and language. The purpose of the product is to target students having a medium level of knowledge of a language and make them become fluent in an immersive world of natives, as if they were on an exchange year. \n\nThe product is currently under prototype development, as I am in the process of getting my MetaQuest 2 from Meta to develop directly with the VR set. I hope to receive my MetaQuest 2 well before the day of the devfest so I can apply my prototypes into the product and let the audience experience it. \n\nPlease note: depending on when I get the MetaQuest I might change the description and title of the talk. The focus of the talk will still be The Metaverse",
+        "category": "Introductory and overview",
+        "speaker": [
+            {
+                "FullName": "Marzia Deodato",
+                "Company": "Barclays",
+                "Biography": "Originally from Italy, I am the first generation in my family to go to University. Since I was kid, I excelled at school and my family supported me to continue my studies. I moved to Scotland to study at the University of Glasgow. I started my studies in Business & Economics and soon realised I wanted to engage in a more technical field. I learnt on my own how to code and changed my degree into Computing Science. I am working now as a Software Developer. My technology skillset goes from web development, mobile development to data science, Big Data and the Cloud. I love getting involved in technology related events and finding out about the latest trends. I am an organiser at Google's Developers Group Glasgow and Google's Women Techmakers Scotland. I am a #IamRemarkable Workshop facilitator and I am passionate about career development and helping women in technology thrive in their journey. I am part of the Women in Technology Committee at Barclays, I organise events to empower women in the workplace and young students. I am mentoring a student in her career into tech. My motto is \"Embrace the Enormity of the Possible\". I love to inspire others in embracing opportunities you would have never thought of before.",
+                "JobTitle": "Software Engineer",
+                "PhotoFileName": "img_1361_1.jpg"
+            }
+        ]
+    },
+    {
+        "title": "My Journey Into Open Source (and how I oversee 250 repositories!)",
+        "description": "Interested in contributing to Open Source Software? Join me as I share my experience of diving into the open-source community.\n\nI'll be speaking about my early contributions, some of the challenges that I've faced and finally, share insights on my position as a core maintainer overseeing and contributing to \"Catppuccin\" - a large open source organization.",
+        "category": "Intermediate",
+        "speaker": [
+            {
+                "FullName": "Goudham Suresh",
+                "Company": "BBC & University of Glasgow",
+                "Biography": "Goudham is a final-year graduate apprentice, pursuing a BSc in Software Engineering at the University of Glasgow while working as a software engineer at the BBC. The apprenticeship has allowed him to bridge the gap between theory and practice in a way that few students can claim. He applies his academic knowledge at the BBC and, in turn, uses practical insights gained there to enhance his academic studies. In addition to his academic and professional pursuits, Goudham is a passionate open-source advocate who firmly believes in the power of collaboration within the open-source community.",
+                "JobTitle": "Software Engineer Apprentice",
+                "PhotoFileName": "goudham_bbc_photoshoot.jpeg"
+            }
+        ]
+    },
+    {
+        "title": "10 reasons you should care about the OWASP Top 10",
+        "description": "This talk will give an introduction to the OWASP Top 10 web vulnerabilities by giving an overview of each item and some tips to avoiding these in your projects.",
+        "category": "Intermediate",
+        "speaker": [
+            {
+                "FullName": "Carole Logan",
+                "Company": "",
+                "Biography": "Carole is a .NET developer with over 12 years industry experience, building client solutions across many sectors including hospitality, finance and public sector. She is 3x Microsoft MVP in developer technologies category and a 7x Umbraco MVP.",
+                "JobTitle": "Principal Engineer",
+                "PhotoFileName": "carole.png"
+            }
+        ]
+    },
+    {
+        "title": "Langchain zero shot fired - Let AI agents interact with your APIs using plain English",
+        "description": "Query your APIs and DBs with natural language, in English!\nIn this session, let's harness OpenAI API and GPT and AI autonomous agents \ud83e\udd16 to unleash the power of your APIs and databases, and perform complex tasks that require agent to reason.\n\nUsing Langchain \ud83e\udd9c\ud83d\udd17 with Python \ud83d\udc0d, I'll will demonstrate how, using natural language, you can quickly and simply expose and interact with your APIs and DBs.\nLet's take a leap into the future \ud83d\udd2e of API interaction and provide users with a dynamic, \ud83d\udde3\ufe0f natural language interface that offers boundless possibilities!",
+        "category": "Intermediate",
+        "speaker": [
+            {
+                "FullName": "Charles-Philippe Bernard",
+                "Company": "JP Morgan Chase",
+                "Biography": "Hi, I'm Charles-Philippe Bernard, a tech enthusiast passionate with helping others growing their programming skills. \ud83d\udc69\u200d\ud83d\udcbb\ud83d\udc68\u200d\ud83d\udcbb\nAs a Senior Manager of Software Engineering at JPMorgan Chase, I am leading a talented team of software professionals in Glasgow and Buenos Aires. With over 18 years of experience, I'm currently focusing on the integration of LLM and GPT \ud83e\udd16 and driving a UX/UI strategy \ud83d\udda5\ufe0f for a group of 200+ people across the world.\nI just love diving deep into the latest tech trends, AI/ML, VR/AR, and UX/UI, and believe they are the present and future of digital interaction. \ud83d\udd2e\nI'm excited to be able to share my insights and knowledge at Devfest.",
+                "JobTitle": "Senior Manager of Software Engineering",
+                "PhotoFileName": "1687899238383.jpeg"
+            }
+        ]
+    },
+    {
+        "title": "Krakend: One Gateway to Rule Them All",
+        "description": "In the ever-evolving landscape of modern software development and microservices architecture, efficient API management is a pivotal element for success. Krakend, an open-source API Gateway, has emerged as a powerful solution for simplifying the complexities of API management, routing, and composition. This presentation explores the primary features of Krakend and how it has the potential to enable organizations to construct resilient and expandable microservices-driven applications.\n\nThe session will begin by presenting a set of challenges and complexities that organizations face when managing multiple APIs separately and how Krakend can be the ultimate solution for these challenges. We will introduce Krakend's foundational components, which encompass API aggregation, transformation, filtering, decoding, throttling, authentication, and more. As the presentation progresses, participants will gain insights into Krakend's versatility and capabilities.\n\nFurthermore, we will conduct a live demonstration showcasing some of the key functionalities provided by Krakend and illustrating how third-party services such as Grafana, Kibana, and Jaeger interact with Krakend.\n\nBy the end of this presentation, participants will have a clear understanding of how Krakend can simplify API management, enhance security, and improve the overall efficiency of microservices architectures. Whether you are a developer, architect, or DevOps engineer, this session will equip you with the knowledge and insights needed to harness the full potential of Krakend in your projects.",
+        "category": "Introductory and overview",
+        "speaker": [
+            {
+                "FullName": "Octavio Antonelli",
+                "Company": "Golden Charter",
+                "Biography": "Senior Software Engineer at Golden Charter with over 15 years of experience, specializing in developing robust backend solutions and seamless API integrations.",
+                "JobTitle": "Senior Software Engineer",
+                "PhotoFileName": "img-4972-old-%281.jpg"
+            }
+        ]
+    },
+    {
+        "title": "Supercharging Your Fitness with Wearables, Analytics, and the cloud with a pinch of PaLM",
+        "description": "In this talk learn how I turned my fitness journey into a data problem. We'll dive deep into my integration of Google Sheets, Google Maps, Pixel Watch, Fitbit data, and Google Cloud to create an easy fitness analytics dashboard in Google Sheets. Learn how I used wearable sensors to track critical metrics, harness analytics to learn insights that worked for me, and even implemented an AI to act as my personalized coach after I put all the weight I lost back on.  ",
+        "category": "Intermediate",
+        "speaker": [
+            {
+                "FullName": "Steven Gray",
+                "Company": "University College London",
+                "Biography": "Steven Gray is a Professor of Spatial Computation at UCL's Centre for Advanced Spatial Analysis, Director of UCL Digital Humanities & is a Fellow at the Alan Turing Institute (The UK's National Center for Data Science and AI) where he co-leads Turing's Tools, Practices and Systems programme. His research interests include large scale data collection and analysis, human computer interaction,  ubiquitous computing, and on-device machine learning for mobile systems.  Through his Software engineering outreach, he is a recognised Google Developer Expert for Google Cloud & Maps, Google Cloud Champion Innovator for Data Analytics, Modern Architecture & Machine Learning.",
+                "JobTitle": "Professor of Spatial Computation",
+                "PhotoFileName": "img_2923.jpg"
+            }
+        ]
+    },
+    {
+        "title": "Why you should learn Rust",
+        "description": "An overview of the programming language Rust and its strengths and weaknesses and how it compares to other mainstream languages and what makes it the most loved programming language in the annual stack overflow survey.",
+        "category": "Introductory and overview",
+        "speaker": [
+            {
+                "FullName": "Aidan Kelly",
+                "Company": "Barclays",
+                "Biography": "Graduate Software Developer at Barclays and recent graduate from University of Strathclyde with a degree in Computer Science.",
+                "JobTitle": "Graduate Software Developer",
+                "PhotoFileName": "1608574859097.jpeg"
+            }
+        ]
+    },
+    {
+        "title": "A journey of the text field API in Jetpack Compose",
+        "description": "Jetpack Compose Text team is redesigning the text field APIs. This talk will cover why and how team is approaching this process.\n",
+        "category": "Intermediate",
+        "speaker": [
+            {
+                "FullName": "Anastasia Soboleva",
+                "Company": "Google",
+                "Biography": "I've been working on Jetpack Compose at Google for several years. Previously contributed to layouts, Material design components and accessibility, and currently I'm focused on text and text input.",
+                "JobTitle": "Software Engineer",
+                "PhotoFileName": "photo-conf.jpg"
+            }
+        ]
+    },
+    {
+        "title": "Potential of opensource LLM - H2OGPT / Offline alternative for ChatGPT",
+        "description": "h2oGPT is one of the first open sourced GPT models that allows you to ground an LLM by providing it with dynamic unstructured data, enabling it to respond based on your data and cite sources when necessary.\nUnlike ChatGPT , h2oGPT is completely free and simplifies the process of creating a private LLM .\nh2oGPT has the search web function which helps h2oGPT to browse internet to provide you with the best response for the prompts.\nIt can also be used offline and can be trained on our own data.\nH2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs.",
+        "category": "Introductory and overview",
+        "speaker": [
+            {
+                "FullName": "Sudipto Ghosh",
+                "Company": "JPMorgan Chase & Co.",
+                "Biography": "Sudipto is a Software Engineer at JPMorgan Chase & Co. He enjoys working with various tools & technologies .\nIn his spare time he listens to and creates music. \n",
+                "JobTitle": "Software Engineer",
+                "PhotoFileName": "sg_dp.jpg"
+            }
+        ]
+    },
+    {
+        "title": "The GenAI Revolution in Further Education - Beyond Classroom Boundaries, a case study",
+        "description": "Dive into a real-world exploration of how one training company seamlessly integrated GenAI into their further education programme. This case study not only reveals the nuances of our transformative journey but also draws out universally applicable insights beneficial for any industry. Understand the strategies employed, the hurdles faced, and the astounding outcomes in terms of process efficiency and enriched training experiences. Whether you're from education, healthcare, finance, or any other sector, our tale of technological integration offers valuable lessons on embracing innovation, driving efficiency, and enhancing user experience. Come, extract actionable insights that can redefine processes in your own field.",
+        "category": "Introductory and overview",
+        "speaker": [
+            {
+                "FullName": "Lisa  Carpenter",
+                "Company": "Digital futures",
+                "Biography": "Lisa is the lead data science instructor at Digital Futures, with responsibility for the design of our Data Science programme and delivery of a world-class learning experience for our engineers. Lisa has over 12 years experience working in data teams. She has worked with organisations to deliver value from their data, building technical solutions and statistical models to produce actionable insight. In 2018, Lisa discovered her passion for developing individuals in data and begun developing and delivering data courses.\n\nLisa is passionate about empowering people through digital skills and is a firm believer than anyone can learn to use technology to enrich their processes and workflows. She believes in the importance of ethics in Data Science and that everyone has a duty to act within the best interest of humanity.\n\nOutside of work, she is an avid boulderer and is also often found meandering down Regent\u2019s Canal on her paddleboard.",
+                "JobTitle": "Lead data science instructor",
+                "PhotoFileName": "1000017943.png"
+            }
+        ]
+    },
+    {
+        "title": "Data and Ethics - how applying ethical thinking can make handling data easy.",
+        "description": "For ethical considerations for the capture, storing and handling of data. What should be considered? How can you make those considerations part of a clear ethical data governance framework that covers both the ethics and the legal and regulatory requirements? This talk covers real world examples, expensive mistakes and what lessons we can learn from them to apply to our own work. ",
+        "category": "Introductory and overview",
+        "speaker": [
+            {
+                "FullName": "nicholas shearer",
+                "Company": "University of Strathclyde / Freelance Consultant",
+                "Biography": "Nicholas is a Data Ethicist who has worked with technology for 30+ years. A web designer since the early 90\u2019s, a database administrator, an analyst, a champion of UX, a Prince 2 project manager, a tech writer and a frustrated development manager wondering how the scope creep of waterfall has now been replaced by the scope creep of agile frameworks. \nCurrent focus is data privacy, data consent and ethical accountability, from data capture to reporting and data use in AI. \n",
+                "JobTitle": "Data Ethicist",
+                "PhotoFileName": "nik.jpg"
+            }
+        ]
+    },
+    {
+        "title": "Should you pay down technical debt?",
+        "description": "Learn what technical debt is, how it accrues, and how to pay it down.",
+        "category": "Introductory and overview",
+        "speaker": [
+            {
+                "FullName": "Arron Edwards",
+                "Company": "",
+                "Biography": "I work with startups to help them scale up. Ex-company owner of 16 years, with distributed teams. I help engineers deliver software faster with less stress and drama.",
+                "JobTitle": "",
+                "PhotoFileName": "img_2832.jpeg"
+            }
+        ]
+    },
+    {
+        "title": "Introduction to PyGame with snake",
+        "description": "",
+        "category": "",
+        "speaker": [
+            {
+                "FullName": "Emma Petrie",
+                "Company": "",
+                "Biography": "",
+                "JobTitle": "",
+                "PhotoFileName": ""
+            }
+        ]
+    },
+    {
+        "title": "Navigating the Tech Ecosystem: The Power of Allyship, Sponsorship, and Mentorship",
+        "description": "",
+        "category": "",
+        "speaker": [
+            {
+                "FullName": "Deepali Narsiker",
+                "Company": "",
+                "Biography": "",
+                "JobTitle": "",
+                "PhotoFileName": ""
+            }
+        ]
+    },
+    {
+        "title": "Edufem: Harnessing VR for women's safety awareness",
+        "description": "",
+        "category": "",
+        "speaker": [
+            {
+                "FullName": "Holly Hewitt",
+                "Company": "",
+                "Biography": "",
+                "JobTitle": "",
+                "PhotoFileName": ""
+            },
+            {
+                "FullName": "Joanna Gabrys",
+                "Company": "",
+                "Biography": "",
+                "JobTitle": "",
+                "PhotoFileName": ""
+            }
+        ]
+    },
+    {
+        "title": "The Ultimate Way to Build Web Applications - Svelte",
+        "description": "",
+        "category": "",
+        "speaker": [
+            {
+                "FullName": "Piotr Kaza\u0142a",
+                "Company": "",
+                "Biography": "",
+                "JobTitle": "",
+                "PhotoFileName": ""
+            }
+        ]
+    },
+    {
+        "title": "The sustainability of developing and using AI systems",
+        "description": "",
+        "category": "",
+        "speaker": [
+            {
+                "FullName": "Akshay Srivats Venkataramana",
+                "Company": "",
+                "Biography": "",
+                "JobTitle": "",
+                "PhotoFileName": ""
+            }
+        ]
+    },
+    {
+        "title": " Location Lab: Build your own store locator using Google Maps Platform",
+        "description": "",
+        "category": "",
+        "speaker": [
+            {
+                "FullName": "Sophie McCartney",
+                "Company": "",
+                "Biography": "",
+                "JobTitle": "",
+                "PhotoFileName": ""
+            }
+        ]
+    },
+    {
+        "title": "Extending the Web - getting more out of the web with WebExtensions",
+        "description": "",
+        "category": "",
+        "speaker": [
+            {
+                "FullName": "Oliver Dunk",
+                "Company": "",
+                "Biography": "",
+                "JobTitle": "",
+                "PhotoFileName": ""
+            }
+        ]
+    },
+    {
+        "title": "Get PartyRock-ing! - How you can be a no code prompt engineer",
+        "description": "",
+        "category": "",
+        "speaker": [
+            {
+                "FullName": "",
+                "Company": "",
+                "Biography": "",
+                "JobTitle": "",
+                "PhotoFileName": ""
+            }
+        ]
+    }
+]

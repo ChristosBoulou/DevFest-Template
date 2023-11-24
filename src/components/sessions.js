@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import speakerData from '../assets/json/devfest_sessions_formatted.json';
+import speakerData from '../assets/json//devfest_2023_sessions_new.json';
 
 const Sessions = () => {
     // Assuming speakerData is an array of session objects.
@@ -23,8 +23,8 @@ const Sessions = () => {
                     <div className='session-component my-10 p-5' key={idx}>
                         <h3 className='mb-3'>{session.title}</h3>
                         {/* Assuming there is a 'speakers' property in the JSON */}
-                        {session.speakers && session.speakers.length > 0 && (
-                            session.speakers.map((speaker, index) => (
+                        {session.speaker && session.speaker.length > 0 && (
+                            session.speaker.map((speaker, index) => (
                                 <p className='font-semibold' key={index}>Speaker: {speaker.FullName}</p>
                             ))
                         )}
