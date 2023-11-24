@@ -27,7 +27,6 @@
     h3 {
         @apply text-2xl;
         @apply my-2;
-
     }
     a {
         @apply hover:text-LightBlue;
@@ -35,7 +34,61 @@
     p {
         @apply my-5;
     }
-    
+    /* New Styles for the Session Component */
+    .session-component {
+        @apply bg-gray-100;   /* Slight gray background */
+        @apply border border-gray-300;   /* Border for the component */
+        @apply shadow-lg;    /* Shadow to make it stand out */
+        @apply rounded-md;   /* Rounded corners for a smoother look */
+    }
+    .iframe-component {
+        @apply h-[800px]; /* This sets the height to 800 pixels */
+    }
+    .store-logo {
+        height: 60px; /* or any other fixed height */
+        width: auto; /* maintain the aspect ratio */
+        object-fit: contain; /* ensure the image is scaled correctly */
+    }
+    .talk-pill {
+        @apply px-5;        /* Increase horizontal padding */
+        @apply py-2;        /* Vertical padding */
+        @apply bg-blue-500; /* Background color */
+        @apply text-white;  /* Text color */
+        @apply font-semibold; /* Font weight */
+        @apply rounded-full;  /* Full border radius for pill shape */
+        @apply shadow;        /* Slight shadow for depth */
+        @apply hover:bg-blue-600;  /* Darker shade on hover */
+        @apply transition-all;    /* Smooth transition for hover effect */
+    }
+    .schedule-image img {
+        max-width: 90%; /* or any other percentage or fixed width */
+        height: auto; /* to maintain aspect ratio */
+        display: block; /* to enable margin auto to work */
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 15px;
+    }
+
+    .workshop-pill {
+        @apply px-5;
+        /* Increase horizontal padding */
+        @apply py-2;
+        /* Vertical padding */
+        @apply bg-green-500;
+        /* Background color */
+        @apply text-white;
+        /* Text color */
+        @apply font-semibold;
+        /* Font weight */
+        @apply rounded-full;
+        /* Full border radius for pill shape */
+        @apply shadow;
+        /* Slight shadow for depth */
+        @apply hover:bg-green-600;
+        /* Darker shade on hover */
+        @apply transition-all;
+        /* Smooth transition for hover effect */
+    }
 }
 
 @tailwind utilities;

@@ -1,5 +1,5 @@
 import React from 'react';
-import SpeakerProfiles from '../components/speakers';
+// import SpeakerProfiles from '../components/speakers';
 
 const Speakers = () => (
     <>
@@ -18,7 +18,7 @@ const Speakers = () => (
             <a href={process.env.REACT_APP_SPEAKER_FORM_URL} className='text-white bg-Blue500 hover:text-white focus:ring-4 focus:ring-Blue500 rounded-full text-md px-6 py-4 my-5'>Submit Your Tech Talk!</a>
         </div>
     </div>
-    <SpeakerProfiles />
+    {/*<SpeakerProfiles />*/}
     </>
 
    

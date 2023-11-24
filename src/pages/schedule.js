@@ -1,12 +1,25 @@
-import React from 'react';
+import MainRoom from '../assets/schedule/2.png';
+import Room1 from '../assets/schedule/3.png';
+import Student from '../assets/schedule/4.png';
+const Schedule = () => {
+    return (
+        <section className="text-center bg-LightBlue py-10">
+            {/* Image for Main Room Schedule */}
+            <div className="schedule-image mx-auto max-w-4xl"> {/* Adjust max-w-4xl to the maximum width you desire */}
+                <img src={MainRoom} alt="Main Room Schedule" className="mx-auto" />
+            </div>
 
-const Schedule = () => (
+            {/* Image for Room 1 Schedule */}
+            <div className="schedule-image mx-auto max-w-4xl">
+                <img src={Room1} alt="Room 1 Schedule" className="mx-auto" />
+            </div>
 
-    <div className='w-11/12 mx-auto my-5 p-5'>
-        <h1 className='text-center'>DevFest {process.env.REACT_APP_CHAPTER_NAME} Sessions</h1>
-  
-    </div>
-   
-);
+            {/* Image for Students Track Schedule */}
+            <div className="schedule-image mx-auto max-w-4xl">
+                <img src={Student} alt="Students Track Schedule" className="mx-auto" />
+            </div>
+        </section>
+    );
+};
 
 export default Schedule;

@@ -15,7 +15,7 @@ const About = () => (
                 <div className='my-4 p-2'>
                     <a href='https://developers.google.com/community/devfest' className='text-white bg-Yellow500 hover:text-white rounded-full text-md px-6 py-4 '>Learn More</a>
                 </div>
-            </div> 
+            </div>
         </div>
     </section>
 );
