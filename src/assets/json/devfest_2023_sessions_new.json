@@ -24,6 +24,13 @@
                 "Biography": "Nishi Ajmera is a full stack developer who is passionate about emerging new technologies in the web development field. With a keen interest in web development, she has gained expertise in various programming languages, frameworks, and tools.\nApart from her professional expertise, Nishi is a public speaker and has delivered multiple sessions at various Google Developer group talks and Javascript meetups.\nWhen she's not coding or reading, Nishi can be found exploring new places and cuisines. She believes that traveling and trying new things is a great way to keep her mind fresh and inspired.",
                 "JobTitle": "Lead Engineer",
                 "PhotoFileName": "screenshot-2023-08-30-at-16.42.45.png"
+            },
+            {
+                "FullName": "Srivalsan Mannoor Sudhagar",
+                "Company": "",
+                "Biography": "",
+                "JobTitle": "",
+                "PhotoFileName": ""
             }
         ]
     },
@@ -154,7 +161,7 @@
         ]
     },
     {
-        "title": "What's new on Chrome web UI",
+        "title": "What's new and What's next in Web UI",
         "description": "The web platform is evolving quickly, with UI features to improve developer experiences, create new responsive capabilities, and enable more accessible interface defaults. The aim of the talk is to give a high level overview of what you can get excited about in the UI space and look out for on the web platform for CSS and HTML. ",
         "category": "Intermediate",
         "speaker": [
@@ -537,11 +544,39 @@
         "category": "",
         "speaker": [
             {
-                "FullName": "",
+                "FullName": "Ishita Narsiker",
                 "Company": "",
                 "Biography": "",
                 "JobTitle": "",
                 "PhotoFileName": ""
+            }
+        ]
+    },
+    {
+        "title": "Code Your Future ",
+        "description": "",
+        "category": "",
+        "speaker": [
+            {
+                "FullName": "Partners",
+                "Company": "",
+                "Biography": "",
+                "JobTitle": "",
+                "PhotoFileName": ""
+            }
+        ]
+    },
+    {
+        "title": "Why can’t my software be like my Aloe Vera?",
+        "description": "",
+        "category": "",
+        "speaker": [
+            {
+                "FullName": "Jose Calderon",
+                "Company": "JP Morgan & Chase",
+                "Biography": "Lead Software Engineer @ JP Morgan Chase, JAVA / Spring Community lead, Google Developer Group Organizer, Affiliate Professor @ Glasgow University",
+                "JobTitle": "Lead Software Engineer",
+                "PhotoFileName": "profile.jpeg"
             }
         ]
     }
