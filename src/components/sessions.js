@@ -6,13 +6,6 @@ const Sessions = () => {
     // If it's not, you would need to adjust this to match the structure of your JSON.
     const [sessions] = useState(speakerData);
 
-    // No need for fetchData since we're importing the data directly.
-
-    // The useEffect hook can be removed if we're not fetching data asynchronously.
-    // useEffect(() => {
-    //     fetchData();
-    // }, []);
-
     console.log(speakerData)
 
     return (
