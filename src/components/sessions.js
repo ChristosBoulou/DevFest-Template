@@ -42,7 +42,7 @@ const Sessions = () => {
                                 const pillClass = item.name.includes("Talk") ? "talk-pill" : "workshop-pill";
                                 return (
                                     <span key={itemIdx} className={pillClass}>
-                                        {item.name.includes("Talk") ? "Talk" : "Workshop"}
+                                        {item.name.includes("talk") ? "Talk" : "Workshop"}
                                     </span>
                                 );
                             })
