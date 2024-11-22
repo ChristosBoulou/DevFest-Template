@@ -11,7 +11,8 @@ const Footer = () => (
             <div className=''>
                 <h3>About GDG {process.env.REACT_APP_CHAPTER_NAME}</h3>
                 <p>
-                    {process.env.REACT_APP_CHAPTER_ABOUT} 
+                We work together to bring technologists and developers from Scotland to code, learn, have fun, and give back.
+                    {/*{process.env.REACT_APP_CHAPTER_ABOUT} */}
                 </p>
                 <a href='https://gdg.community.dev/'>
                     <img src={gdg_logo} className='my-3 p-5 bg-white rounded-xl' alt='GDG {process.env.REACT_APP_CHAPTER_NAME} logo'></img>
@@ -58,6 +59,12 @@ const Footer = () => (
                     <li>
                         <Link to='/code-of-conduct' className='text-white'>Code of Conduct</Link> 
                     </li>
+                    {/*<li>*/}
+                    {/*    <Link to='/faq' className='text-white'>FAQ</Link> */}
+                    {/*</li>*/}
+                    {/* <li>
+                        <Link to ='/volunteer' className='text-white'>Volunteer</Link>
+                    </li> */}
                 </ul>
             </div>
         </div>
