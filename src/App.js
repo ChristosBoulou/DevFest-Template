@@ -4,8 +4,8 @@ import Header from './components/header.js';
 import Footer from './components/footer.js';
 import Home from './pages/home.js';
 import Speakers from './pages/speakers.js';
-// import Sponsors from './pages/sponsors.js';
-// import Schedule from './pages/schedule.js'
+import Sponsors from './pages/sponsors.js';
+import Schedule from './pages/schedule.js'
 import Location from './pages/location.js'
 import Policy from './pages/code-conduct-policy.js';
 // import FAQ from './pages/faq.js';
@@ -28,9 +28,9 @@ function App() {
                 <Route path="/sessions" element={<SessionDetails />} />
                 <Route path="/location" element={<Location />} />
                 <Route path="/code-of-conduct" element={<Policy />} />
-                {/* <Route path="/sponsors" element={<Sponsors />} /> */}
+                <Route path="/sponsors" element={<Sponsors />} />
                 {/* <Route path="/app" element={<MobileApp />} /> */}
-                {/* <Route path="/schedule" element={<Schedule />} /> */}
+                <Route path="/schedule" element={<Schedule />} />
 
                 {/* 
                 <Route path="/faq" element={<FAQ />} /> 

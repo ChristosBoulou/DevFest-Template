@@ -13,6 +13,8 @@ const Hero = () => (
             <h3 className='text-Green500 font-semibold'>Date: {process.env.REACT_APP_DEVFEST_DATE}</h3>
             <p className='sm:px-5 sm:text-lg'>DevFest {process.env.REACT_APP_CHAPTER_NAME} is a community-run one-day conference aimed to bring technologists, developers, students, tech companies, and speakers together in one location to learn, discuss and experiment with technology.</p>
             <p className='sm:px-5 sm:text-lg'>More info about the speakers and venue is coming in a few days!!!</p>
+            <br/>
+            <p className='sm:px-5 sm:text-lg'> <span className="font-semibold">Important message:</span> To enter the JP Morgan offices, attendees must present a government-issued ID (such as a driver’s license, passport, etc.).</p>
 
             <div className='hidden lg:block'>
            {/* <a href="https://www.eventbrite.com/e/devfest-london-2024-tickets-952825616067" className="text-white bg-Red500 hover:bg-Red500 hover:text-white rounded-full text-md px-6 py-4 mx-2">Register</a> */}
