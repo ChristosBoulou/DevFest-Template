@@ -5,7 +5,7 @@ const Sessions = () => {
 
     const fetchData = () => {
         console.log("called sessionize")
-        fetch('https://sessionize.com/api/v2/p2cwoiyr/view/Sessions')
+        fetch('https://sessionize.com/api/v2/25cvh8oh/view/Sessions')
             .then(response => response.json())
             .then(data => {
                 console.log("data",data)
@@ -37,16 +37,16 @@ const Sessions = () => {
                             </p>
                         )}
                         <p className='mb-3'>{session.description}</p>
-                        {session.categories.map(category =>
-                            category.categoryItems.map((item, itemIdx) => {
-                                const pillClass = item.name.includes("Talk") ? "talk-pill" : "workshop-pill";
-                                return (
-                                    <span key={itemIdx} className={pillClass}>
-                                        {item.name.includes("talk") ? "Talk" : "Workshop"}
-                                    </span>
-                                );
-                            })
-                        )}
+                        {/*{session.categories.map(category =>*/}
+                        {/*    category.categoryItems.map((item, itemIdx) => {*/}
+                        {/*        const pillClass = item.name.includes("Talk") ? "talk-pill" : "workshop-pill";*/}
+                        {/*        return (*/}
+                        {/*            <span key={itemIdx} className={pillClass}>*/}
+                        {/*                {item.name.includes("talk") ? "Talk" : "Workshop"}*/}
+                        {/*            </span>*/}
+                        {/*        );*/}
+                        {/*    })*/}
+                        {/*)}*/}
                     </div>
                 ))}
             </div>
